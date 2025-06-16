@@ -38,16 +38,19 @@ const TestimonialsSection = () => {
           <div className="testimonial bg-gray-50 rounded-lg p-6 shadow-sm">
             <div className="flex items-center mb-4">
               <div className="h-12 w-12 rounded-full bg-purple-100 flex items-center justify-center">
-                <span className="text-purple-600 font-bold">JP</span>
+                <span className="text-purple-600 font-bold">HA</span>
               </div>
               <div className="ml-4">
-                <h4 className="text-lg font-semibold">Jamie P.</h4>
+                <h4 className="text-lg font-semibold">Hamada Ahmed</h4>
                 <p className="text-gray-500">Student</p>
               </div>
             </div>
             <p className="text-gray-600">
-              "I never miss taking my medication anymore thanks to Chrono's
-              reminders. Simple but incredibly useful."
+              "This extension seriously saved my study routine. I use the
+              Pomodoro timer every day, and it actually keeps me focused.
+              Setting quick alarms and timers is super handy between classes
+              too. It’s simple, clean, and doesn’t get in the way. Honestly, it
+              just makes managing time way less stressful."
             </p>
             <div className="mt-3 flex text-yellow-400">
               <i className="fas fa-star"></i>
@@ -61,23 +64,27 @@ const TestimonialsSection = () => {
           <div className="testimonial bg-gray-50 rounded-lg p-6 shadow-sm">
             <div className="flex items-center mb-4">
               <div className="h-12 w-12 rounded-full bg-purple-100 flex items-center justify-center">
-                <span className="text-purple-600 font-bold">SK</span>
+                <span className="text-purple-600 font-bold">M</span>
               </div>
               <div className="ml-4">
-                <h4 className="text-lg font-semibold">Sam K.</h4>
-                <p className="text-gray-500">Project Manager</p>
+                <h4 className="text-lg font-semibold">Morment</h4>
+                <p className="text-gray-500">Streamer</p>
               </div>
             </div>
             <p className="text-gray-600">
-              "I use the timer feature for our team meetings to keep everyone on
-              track. It's clean, simple, and does exactly what we need."
+              "As a YouTuber and streamer, this extension has improved how I
+              manage my time. I use it for setting alarms and Pomodoro
+              sessions—all in one clean interface. It keeps me focused during
+              edits and reminds me to take breaks . Super easy to use throughout
+              my daily workflow. Highly recommend it for any content creator or
+              multitasker."
             </p>
             <div className="mt-3 flex text-yellow-400">
               <i className="fas fa-star"></i>
               <i className="fas fa-star"></i>
               <i className="fas fa-star"></i>
               <i className="fas fa-star"></i>
-              <i className="fas fa-star-half-alt"></i>
+              <i className="fas fa-star"></i>
             </div>
           </div>
         </div>
